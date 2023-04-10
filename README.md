@@ -35,7 +35,7 @@ $1\L$2$3
 $1\L$2$3\L$4$5
 
 ## TODO
-Expand move/ability name length and update names accordingly
+Expand move/ability/item name length and update names accordingly
 Update stats, move power, movesets, etc. for new gens
 Add Fairy
 Nature stats
@@ -55,9 +55,12 @@ Breeding mechanics
 Premier ball in shop
 Lower case after first input in the naming screen (https://www.pokecommunity.com/showpost.php?p=10461987&postcount=343)
 Catch EXP
-Newer QOL items (mints, bottle caps, etc.)
+Newer QOL items (mints, bottle caps, PP Ups in shops, etc.)
 Evolution moves
 Menu nickname/relearner
 3 perfect IVs for legendaries
 Hidden Power type/power
 Pokemon Icons
+X Sp. Def
+EV berries
+Poke BallS

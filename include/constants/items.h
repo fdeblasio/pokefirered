@@ -80,7 +80,7 @@
 #define ITEM_X_DEFEND 76
 #define ITEM_X_SPEED 77
 #define ITEM_X_ACCURACY 78
-#define ITEM_X_SPECIAL 79
+#define ITEM_X_SP_ATK 79
 #define ITEM_POKE_DOLL 80
 #define ITEM_FLUFFY_TAIL 81
 #define ITEM_052 82

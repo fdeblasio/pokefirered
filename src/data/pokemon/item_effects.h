@@ -81,7 +81,7 @@ static const u8 sItemEffect_MoomooMilk[7] = {
 static const u8 sItemEffect_EnergyPowder[10] = {
     [4] = ITEM4_HEAL_HP,
     [5] = ITEM5_FRIENDSHIP_ALL,
-    [6] = 50,  // Amount of HP to recover
+    [6] = 60,  // Amount of HP to recover
     [7] = -5,  // Friendship change, low
     [8] = -5,  // Friendship change, mid
     [9] = -10, // Friendship change, high
@@ -332,7 +332,7 @@ static const u8 sItemEffect_LumBerry[6] = {
 
 static const u8 sItemEffect_SitrusBerry[7] = {
     [4] = ITEM4_HEAL_HP,
-    [6] = 30, // Amount of HP to recover
+    [6] = 50, // Amount of HP to recover
 };
 
 const u8 *const gItemEffectTable[] =
@@ -383,7 +383,7 @@ const u8 *const gItemEffectTable[] =
     [ITEM_X_DEFEND - ITEM_POTION]      = sItemEffect_XDefend,
     [ITEM_X_SPEED - ITEM_POTION]       = sItemEffect_XSpeed,
     [ITEM_X_ACCURACY - ITEM_POTION]    = sItemEffect_XAccuracy,
-    [ITEM_X_SPECIAL - ITEM_POTION]     = sItemEffect_XSpecial,
+    [ITEM_X_SP_ATK - ITEM_POTION]     = sItemEffect_XSpecial,
     [ITEM_SUN_STONE - ITEM_POTION]     = sItemEffect_SunStone,
     [ITEM_MOON_STONE - ITEM_POTION]    = sItemEffect_MoonStone,
     [ITEM_FIRE_STONE - ITEM_POTION]    = sItemEffect_FireStone,

@@ -255,7 +255,7 @@ SilphCo_6F_EventScript_ItemHPUp::
 	end
 
 SilphCo_6F_EventScript_ItemXSpecial::
-	finditem ITEM_X_SPECIAL
+	finditem ITEM_X_SP_ATK
 	end
 
 SilphCo_7F_EventScript_ItemCalcium::
