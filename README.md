@@ -38,7 +38,25 @@ $1\L$2$3\L$4$5
 Expand move/ability name length and update names accordingly
 Update stats, move power, movesets, etc. for new gens
 Add Fairy
+Nature stats
 Physical/Special Split
 Koichi/Clarine
 Reorganize Index numbers to match Dex numbers (if possible)
 Add new moves and abilities
+Reusuable TMs (https://www.pokecommunity.com/showpost.php?p=9980343&postcount=7)
+Running anywhere
+Evolution moves
+Trainers with different balls
+Exp. All
+https://www.pokecommunity.com/showthread.php?t=416647&page=1
+Out of battle abilities
+IV/EV checker
+Breeding mechanics
+Premier ball in shop
+Lower case after first input in the naming screen (https://www.pokecommunity.com/showpost.php?p=10461987&postcount=343)
+Catch EXP
+Newer QOL items (mints, bottle caps, etc.)
+Evolution moves
+Menu nickname/relearner
+3 perfect IVs for legendaries
+Hidden Power type/power
