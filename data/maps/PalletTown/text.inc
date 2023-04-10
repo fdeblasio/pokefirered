@@ -1,9 +1,9 @@
 PalletTown_Text_OakDontGoOut::
-    .string "OAK: Hey! Wait!\n"
+    .string "Oak: Hey! Wait!\n"
     .string "Don't go out!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-    .string "OAK: It's unsafe!\n"
+    .string "Oak: It's unsafe!\n"
     .string "Wild Pokémon live in tall grass!\p"
     .string "You need your own Pokémon for\n"
     .string "your protection.\p"
@@ -21,7 +21,7 @@ PalletTown_Text_CanStoreItemsAndMonsInPC::
     .string "and Pokémon as data via PC.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "OAK Pokémon RESEARCH LAB$"
+    .string "Oak Pokémon Research Lab$"
 
 PalletTown_Text_PlayersHouse::
     .string "{PLAYER}'s house$"
@@ -30,11 +30,11 @@ PalletTown_Text_RivalsHouse::
     .string "{RIVAL}'s house$"
 
 PalletTown_Text_TownSign::
-    .string "PALLET TOWN\n"
+    .string "Pallet Town\n"
     .string "Shades of your journey await!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-    .string "OAK: Ah, {PLAYER}!\n"
+    .string "Oak: Ah, {PLAYER}!\n"
     .string "You're back, are you?\p"
     .string "How much have you filled in your\n"
     .string "Pokédex?\p"
@@ -57,7 +57,7 @@ PalletTown_Text_CaughtXImpressiveFollowMe::
     .string "Follow me.$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
-    .string "OAK: Ah, {PLAYER}!\n"
+    .string "Oak: Ah, {PLAYER}!\n"
     .string "You seem to be enjoying traveling.\p"
     .string "Knowing you, {PLAYER}, I can easily\n"
     .string "imagine you going out to even more\l"

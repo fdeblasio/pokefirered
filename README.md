@@ -60,3 +60,4 @@ Evolution moves
 Menu nickname/relearner
 3 perfect IVs for legendaries
 Hidden Power type/power
+Pokemon Icons
