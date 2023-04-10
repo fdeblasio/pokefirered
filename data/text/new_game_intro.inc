@@ -1,77 +1,80 @@
 gOtherText_NewName::
     .string "New Name$"
 
-gNameChoice_Green::
-    .string "Green$"
-
 gNameChoice_Red::
     .string "Red$"
 
-gNameChoice_Leaf::
-    .string "Leaf$"
+gNameChoice_Green::
+    .string "Green$"
 
 gNameChoice_Fire::
     .string "Fire$"
 
+gNameChoice_Leaf::
+    .string "Leaf$"
+
 gNameChoice_Gary::
     .string "Gary$"
 
-gNameChoice_Kaz::
-    .string "Kaz$"
+gNameChoice_Frank::
+    .string "Frank$"
 
-gNameChoice_Toru::
-    .string "Toru$"
+gNameChoice_Felix::
+    .string "Felix$"
 
-gNameChoice_Ash::
-    .string "Ash$"
+gNameChoice_Jake::
+    .string "Jake$"
 
-gNameChoice_Kene::
-    .string "Kene$"
+gNameChoice_Junya::
+    .string "Junya$"
+
+gNameChoice_Mike::
+    .string "Mike$"
+
+gNameChoice_Pat::
+    .string "Pat$"
+
+gNameChoice_Rafael::
+    .string "Rafael$"
 
 gNameChoice_Geki::
     .string "Geki$"
 
-gNameChoice_Jak::
-    .string "Jak$"
-
-gNameChoice_Janne::
-    .string "Janne$"
-
-gNameChoice_Jonn::
-    .string "Jonn$"
-
-gNameChoice_Kamon::
-    .string "Kamon$"
-
-gNameChoice_Karl::
-    .string "Karl$"
-
-gNameChoice_Taylor::
-    .string "Taylor$"
-
-gNameChoice_Oscar::
-    .string "Oscar$"
-
 gNameChoice_Hiro::
     .string "Hiro$"
-
-gNameChoice_Max::
-    .string "Max$"
 
 gNameChoice_Jon::
     .string "Jon$"
 
-gNameChoice_Ralph::
-    .string "Ralph$"
+gNameChoice_Karl::
+    .string "Karl$"
 
-gNameChoice_Kay::
-    .string "Kay$"
+gNameChoice_Kaz::
+    .string "Kaz$"
 
-gNameChoice_Tosh::
-    .string "Tosh$"
+gNameChoice_Kene::
+    .string "Kene$"
+
+gNameChoice_Max::
+    .string "Max$"
+
+gNameChoice_Oscar::
+    .string "Oscar$"
 
 gNameChoice_Roak::
     .string "Roak$"
+
+gNameChoice_Ralph::
+    .string "Ralph$"
+
+gNameChoice_Toru::
+    .string "Toru$"
+
+gNameChoice_Emily::
+    .string "Emily$"
+
+gNameChoice_Kim::
+    .string "Kim$"
 
 gNameChoice_Omi::
     .string "Omi$"
@@ -82,8 +85,14 @@ gNameChoice_Jodi::
 gNameChoice_Amanda::
     .string "Amanda$"
 
-gNameChoice_Hillary::
-    .string "Hillary$"
+gNameChoice_Cassie::
+    .string "Cassie$"
+
+gNameChoice_June::
+    .string "June$"
+
+gNameChoice_Kiko::
+    .string "Kiko$"
 
 gNameChoice_Makey::
     .string "Makey$"
@@ -91,38 +100,29 @@ gNameChoice_Makey::
 gNameChoice_Michi::
     .string "Michi$"
 
-gNameChoice_Paula::
-    .string "Paula$"
-
-gNameChoice_June::
-    .string "June$"
-
-gNameChoice_Cassie::
-    .string "Cassie$"
-
-gNameChoice_Rey::
-    .string "Rey$"
-
-gNameChoice_Seda::
-    .string "Seda$"
-
-gNameChoice_Kiko::
-    .string "Kiko$"
-
 gNameChoice_Mina::
     .string "Mina$"
-
-gNameChoice_Norie::
-    .string "Norie$"
-
-gNameChoice_Sai::
-    .string "Sai$"
 
 gNameChoice_Momo::
     .string "Momo$"
 
+gNameChoice_Norie::
+    .string "Norie$"
+
+gNameChoice_Paula::
+    .string "Paula$"
+
+gNameChoice_Sai::
+    .string "Sai$"
+
+gNameChoice_Seda::
+    .string "Seda$"
+
 gNameChoice_Suzi::
     .string "Suzi$"
+
+gNameChoice_Taylor::
+    .string "Taylor$"
 
 gControlsGuide_Text_Intro::
     .string "The various buttons will be explained in\n"

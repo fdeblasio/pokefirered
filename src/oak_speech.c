@@ -590,30 +590,29 @@ static const u8 *const sMaleNameChoices[] =
 #if defined(FIRERED)
     gNameChoice_Red,
     gNameChoice_Fire,
-    gNameChoice_Ash,
-    gNameChoice_Kene,
-    gNameChoice_Geki,
 #elif defined(LEAFGREEN)
     gNameChoice_Green,
     gNameChoice_Leaf,
-    gNameChoice_Gary,
-    gNameChoice_Kaz,
-    gNameChoice_Toru,
 #endif
-    gNameChoice_Jak,
-    gNameChoice_Janne,
-    gNameChoice_Jonn,
-    gNameChoice_Kamon,
-    gNameChoice_Karl,
-    gNameChoice_Taylor,
-    gNameChoice_Oscar,
+    gNameChoice_Frank,
+    gNameChoice_Felix,
+    gNameChoice_Jake,
+    gNameChoice_Junya,
+    gNameChoice_Mike,
+    gNameChoice_Pat,
+    gNameChoice_Rafael,
+    gNameChoice_Geki,
     gNameChoice_Hiro,
-    gNameChoice_Max,
     gNameChoice_Jon,
+    gNameChoice_Karl,
+    gNameChoice_Kaz,
+    gNameChoice_Kene,
+    gNameChoice_Max,
+    gNameChoice_Oscar,
     gNameChoice_Ralph,
-    gNameChoice_Kay,
-    gNameChoice_Tosh,
-    gNameChoice_Roak
+    gNameChoice_Roak,
+    gNameChoice_Taylor,
+    gNameChoice_Toru
 };
 
 static const u8 *const sFemaleNameChoices[] =
@@ -625,23 +624,24 @@ static const u8 *const sFemaleNameChoices[] =
     gNameChoice_Green,
     gNameChoice_Leaf,
 #endif
-    gNameChoice_Omi,
-    gNameChoice_Jodi,
+    gNameChoice_Emily,
+    gNameChoice_Kim,
     gNameChoice_Amanda,
-    gNameChoice_Hillary,
+    gNameChoice_Cassie,
+    gNameChoice_Jodi,
+    gNameChoice_June,
+    gNameChoice_Kiko,
     gNameChoice_Makey,
     gNameChoice_Michi,
-    gNameChoice_Paula,
-    gNameChoice_June,
-    gNameChoice_Cassie,
-    gNameChoice_Rey,
-    gNameChoice_Seda,
-    gNameChoice_Kiko,
     gNameChoice_Mina,
-    gNameChoice_Norie,
-    gNameChoice_Sai,
     gNameChoice_Momo,
-    gNameChoice_Suzi
+    gNameChoice_Norie,
+    gNameChoice_Omi,
+    gNameChoice_Paula,
+    gNameChoice_Sai,
+    gNameChoice_Seda,
+    gNameChoice_Suzi,
+    gNameChoice_Taylor
 };
 
 static const u8 *const sRivalNameChoices[] =
@@ -649,13 +649,13 @@ static const u8 *const sRivalNameChoices[] =
 #if defined(FIRERED)
     gNameChoice_Green,
     gNameChoice_Gary,
+    gNameChoice_Leaf,
     gNameChoice_Kaz,
-    gNameChoice_Toru
 #elif defined(LEAFGREEN)
     gNameChoice_Red,
-    gNameChoice_Ash,
+    gNameChoice_Gary,
+    gNameChoice_Fire,
     gNameChoice_Kene,
-    gNameChoice_Geki
 #endif
 };
 
