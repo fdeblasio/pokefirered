@@ -38,7 +38,7 @@ $1\L$2$3\L$4$5
 Expand move/ability name length and update names accordingly
 Update stats, move power, movesets, etc. for new gens
 Add Fairy
+Physical/Special Split
 Koichi/Clarine
 Reorganize Index numbers to match Dex numbers (if possible)
-Remove National Dex evolution restriction
 Add new moves and abilities

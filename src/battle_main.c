@@ -309,7 +309,7 @@ static const s8 sPlayerThrowXTranslation[] = { -32, -16, -16, -32, -32, 0, 0, 0 
 // 10 is ×1.0 TYPE_MUL_NORMAL
 // 05 is ×0.5 TYPE_MUL_NOT_EFFECTIVE
 // 00 is ×0.0 TYPE_MUL_NO_EFFECT
-const u8 gTypeEffectiveness[336] =
+const u8 gTypeEffectiveness[339] =
 {
     TYPE_NORMAL, TYPE_ROCK, TYPE_MUL_NOT_EFFECTIVE,
     TYPE_NORMAL, TYPE_STEEL, TYPE_MUL_NOT_EFFECTIVE,
@@ -419,6 +419,7 @@ const u8 gTypeEffectiveness[336] =
     TYPE_STEEL, TYPE_ICE, TYPE_MUL_SUPER_EFFECTIVE,
     TYPE_STEEL, TYPE_ROCK, TYPE_MUL_SUPER_EFFECTIVE,
     TYPE_STEEL, TYPE_STEEL, TYPE_MUL_NOT_EFFECTIVE,
+    TYPE_FAIRY, TYPE_DRAGON, TYPE_MUL_SUPER_EFFECTIVE,
     TYPE_FORESIGHT, TYPE_FORESIGHT, TYPE_MUL_NO_EFFECT,
     TYPE_NORMAL, TYPE_GHOST, TYPE_MUL_NO_EFFECT,
     TYPE_FIGHTING, TYPE_GHOST, TYPE_MUL_NO_EFFECT,
@@ -445,6 +446,7 @@ const u8 gTypeNames[NUMBER_OF_MON_TYPES][TYPE_NAME_LENGTH + 1] =
     [TYPE_ICE] = _("Ice"),
     [TYPE_DRAGON] = _("Dragon"),
     [TYPE_DARK] = _("Dark"),
+    [TYPE_FAIRY] = _("Fairy"),
 };
 
 // This is a factor in how much money you get for beating a trainer.
