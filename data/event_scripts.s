@@ -945,12 +945,12 @@ Text_ItNeedsCardKey::
 
 Text_AccessedProfOaksPC::
 	.string "Accessed PROF. OAK's PC…\p"
-	.string "Accessed the POKéDEX Rating\n"
+	.string "Accessed the Pokédex Rating\n"
 	.string "System…$"
 
 Text_HavePokedexRated::
 	.string "Would you like to have your\n"
-	.string "POKéDEX rated?$"
+	.string "Pokédex rated?$"
 
 Text_ClosedLinkToProfOaksPC::
 	.string "Closed link to PROF. OAK's PC.$"

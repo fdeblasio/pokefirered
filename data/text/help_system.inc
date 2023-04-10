@@ -529,7 +529,7 @@ Help_Text_AnswerWhatIsAGym::
 	.string "LEADER to collect a BADGE.$"
 
 Help_Text_UsingPokedex::
-	.string " Using “POKéDEX”$"
+	.string " Using “Pokédex”$"
 
 Help_Text_UsingPokemon::
 	.string " Using “Pokémon”$"
@@ -637,7 +637,7 @@ Help_Text_UsingBag2::
 	.string " Using “BAG”$"
 
 Help_Text_ReadingPokedex::
-	.string " Reading the “POKéDEX”$"
+	.string " Reading the “Pokédex”$"
 
 Help_Text_UsingHomePC::
 	.string "Using the PC at home$"
@@ -673,7 +673,7 @@ Help_Text_UsingHallOfFame::
 	.string " Using “HALL OF FAME”$"
 
 Help_Text_HowToUsePokedex::
-	.string "{CIRCLE_1} Select “POKéDEX” on the MENU.\n"
+	.string "{CIRCLE_1} Select “Pokédex” on the MENU.\n"
 	.string "{CIRCLE_2} Choose Pokémon using commands such\n"
 	.string "   as “Pokémon LIST,”\n"
 	.string "   “HABITATS OF Pokémon,” and\n"
@@ -919,7 +919,7 @@ Help_Text_HowToUseMailbox::
 Help_Text_HowToUseProfOaksPC::
 	.string "{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\n"
 	.string "{CIRCLE_2} PROF. OAK will evaluate your\n"
-	.string "   POKéDEX.\n"
+	.string "   Pokédex.\n"
 	.string "His evaluations should give you hints\n"
 	.string "for catching more Pokémon!$"
 
@@ -974,7 +974,7 @@ Help_Text_HowToUseBag2::
 Help_Text_HowToReadPokedex::
 	.string "{CIRCLE_1} Pokémon that you have caught are\n"
 	.string "   identified by a POKé BALL mark on\n"
-	.string "   the POKéDEX list.\n"
+	.string "   the Pokédex list.\n"
 	.string "{CIRCLE_2} A caught Pokémon will provide a\n"
 	.string "   large amount of data.\n"
 	.if REVISION < 1
@@ -1133,7 +1133,7 @@ Help_Text_PokeBalls::
 	.string "POKé BALLS$"
 
 Help_Text_Pokedex::
-	.string "POKéDEX$"
+	.string "Pokédex$"
 
 Help_Text_PlayTime::
 	.string "PLAY TIME$"
@@ -1379,7 +1379,7 @@ Help_Text_DefinePokeBalls::
 Help_Text_DefinePokedex::
 	.string "This indicates the number of species of\n"
 	.string "Pokémon you have caught and/or\l"
-	.string "evolved to fill the POKéDEX.\l"
+	.string "evolved to fill the Pokédex.\l"
 	.string "Try hard to catch all sorts of\l"
 	.string "Pokémon!$"
 
@@ -1418,7 +1418,7 @@ Help_Text_DefineButtonMode::
 	.string "Set to “HELP” to display help messages\n"
 	.string "by pressing the L or R Button.\l"
 	.string "Set to “LR” to enable the switching\l"
-	.string "of the POKéDEX pages and BAG POCKETS\l"
+	.string "of the Pokédex pages and BAG POCKETS\l"
 	.string "using the L and R Buttons.\l"
 	.string "Set to “L=A” to make the L Button\l"
 	.string "work the same as the A Button.$"
