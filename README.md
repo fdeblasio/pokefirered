@@ -37,7 +37,7 @@ $1\L$2$3\L$4$5
 ## TODO
 https://www.pokecommunity.com/showthread.php?t=416647&page=1
 Expand move/ability/item name length and update names accordingly
-Update stats, move power, movesets, etc. for new gens
+Update stats, movesets, etc. for new gens
 Add Fairy
 Nature stats
 Physical/Special Split

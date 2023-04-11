@@ -38,8 +38,8 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_BULBASAUR] =
     {
         .baseHP = 45,
-        .baseAttack = 49,
-        .baseDefense = 49,
+        .baseAttack = 50,
+        .baseDefense = 50,
         .baseSpeed = 45,
         .baseSpAttack = 65,
         .baseSpDefense = 65,
@@ -124,9 +124,9 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_CHARMANDER] =
     {
-        .baseHP = 39,
-        .baseAttack = 52,
-        .baseDefense = 43,
+        .baseHP = 40,
+        .baseAttack = 55,
+        .baseDefense = 45,
         .baseSpeed = 65,
         .baseSpAttack = 60,
         .baseSpDefense = 50,
@@ -211,12 +211,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_SQUIRTLE] =
     {
-        .baseHP = 44,
-        .baseAttack = 48,
+        .baseHP = 45,
+        .baseAttack = 50,
         .baseDefense = 65,
-        .baseSpeed = 43,
+        .baseSpeed = 45,
         .baseSpAttack = 50,
-        .baseSpDefense = 64,
+        .baseSpDefense = 65,
         .types = {TYPE_WATER, TYPE_WATER},
         .catchRate = 45,
         .expYield = 66,
