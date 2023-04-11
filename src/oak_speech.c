@@ -770,12 +770,7 @@ static void Task_NewGameScene(u8 taskId)
         CopyBgTilemapBufferToVram(1);
         break;
     case 7:
-        CreateTopBarWindowLoadPalette(0, 30, 0, 13, 0x1C4);
-        FillBgTilemapBufferRect_Palette0(1, 0xD00F, 0,  0, 30, 2);
-        FillBgTilemapBufferRect_Palette0(1, 0xD002, 0,  2, 30, 1);
-        FillBgTilemapBufferRect_Palette0(1, 0xD00E, 0, 19, 30, 1);
         gPaletteFade.bufferTransferDisabled = FALSE;
-        gTasks[taskId].tTextCursorSpriteId = CreateTextCursorSprite(0, 230, 149, 0, 0);
         BlendPalettes(PALETTES_ALL, 16, RGB_BLACK);
         break;
     case 10:

@@ -35,6 +35,7 @@ $1\L$2$3
 $1\L$2$3\L$4$5
 
 ## TODO
+https://www.pokecommunity.com/showthread.php?t=416647&page=1
 Expand move/ability/item name length and update names accordingly
 Update stats, move power, movesets, etc. for new gens
 Add Fairy
@@ -48,12 +49,10 @@ Running anywhere
 Evolution moves
 Trainers with different balls
 Exp. All
-https://www.pokecommunity.com/showthread.php?t=416647&page=1
 Out of battle abilities
 IV/EV checker
 Breeding mechanics
 Premier ball in shop
-Lower case after first input in the naming screen (https://www.pokecommunity.com/showpost.php?p=10461987&postcount=343)
 Catch EXP
 Newer QOL items (mints, bottle caps, PP Ups in shops, etc.)
 Evolution moves

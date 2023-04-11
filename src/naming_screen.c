@@ -1836,7 +1836,13 @@ static bool8 AddTextCharacter(void)
 static void BufferCharacter(u8 ch)
 {
     u8 index = GetTextEntryPosition();
-    sNamingScreen->textBuffer[index] = ch;
+
+    if (index == 0 && sNamingScreen->currentPage == KBPAGE_LETTERS_UPPER) {
+        MainState_StartPageSwap();
+        sNamingScreen->textBuffer[index] = ch;
+    } else {
+        sNamingScreen->textBuffer[index] = ch;
+    }
 }
 
 static void SaveInputText(void)
