@@ -217,7 +217,7 @@ gOakSpeech_Text_YourNameWhatIsIt::
 
 gOakSpeech_Text_SoYourNameIsPlayer::
     .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "So your name is {PLAYER}?$"
 
 gOakSpeech_Text_WhatWasHisName::
     .string "This is my grandson.\p"

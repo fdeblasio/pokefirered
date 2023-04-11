@@ -34,7 +34,7 @@ PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
     .string "them a rest.$"
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
-    .string "It's a big map of the KANTO region.\n"
+    .string "It's a big map of the Kanto region.\n"
     .string "Now this would be useful!$"
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
@@ -116,6 +116,5 @@ PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
     .string "Pokémon would hate you so much?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
-    .string "“The lovely and sweet\n"
-    .string "Clefairy”$"
+    .string "“The lovely and sweet Clefairy”$"
 
